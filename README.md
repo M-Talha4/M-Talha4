@@ -8,13 +8,10 @@ I'm a passionate **Flutter Developer** with a love for building beautiful, perfo
 
 - **Flutter** (Dart)
 - **Firebase** (Authentication, Firestore, Cloud Functions)
-- **RESTful APIs** and **GraphQL**
-- **State Management**: Provider, Riverpod, Bloc
+- **RESTful APIs**
+- **State Management**: Provider, Riverpod, Getx
 - **Version Control**: Git, GitHub
-- **CI/CD**: GitHub Actions, Codemagic
-- **App Deployment**: Google Play Store, Apple App Store
-- **UI/UX Design**: Figma, Adobe XD
-
+- **CI/CD**: GitHub Actions
 ---
 
 ## 🚀 **Projects**
